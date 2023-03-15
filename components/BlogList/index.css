@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.blog-list-container {
+  width: 90%;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+@media screen and (min-width: 992px) {
+  .blog-list-container {
+    width: 70%;
+  }
+}

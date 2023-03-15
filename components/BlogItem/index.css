@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+* {
+  font-family: 'Roboto';
+}
+
+.Blog-item-container {
+  list-style: none;
+}
+
+.heading-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.heading {
+  font-weight: 500;
+  color: #12022f;
+}
+
+.date {
+  color: #9aa5b1;
+}

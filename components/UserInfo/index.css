@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+* {
+  font-family: 'Roboto';
+}
+
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.profile {
+  width: 90px;
+}
+
+.heading {
+  font-weight: 500;
+}
